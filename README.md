@@ -3,6 +3,7 @@
 Un viaje completo desde variables básicas hasta clases con herencia
 
 </div>
+
 📚 Conceptos clave dominados
 Nivel	Concepto	Ejemplo práctico
 🟢 Básico	Variables tipadas	nombre: string, nivel: number, activo: boolean
